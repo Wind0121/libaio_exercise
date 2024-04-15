@@ -1,6 +1,6 @@
 #include "func.h"
 int main(){
   // readByKernelAio();
-  writeByKernelAio();
+  // writeByKernelAio();
   return 0;
 }
